@@ -1,0 +1,7 @@
+.env
+node_modules
+
+# Google Cloud Service Account Credentials
+google-credentials.json
+loyal-polymer-454517-b5-5e938dcba724.json
+docs/service-account-key-example.json
